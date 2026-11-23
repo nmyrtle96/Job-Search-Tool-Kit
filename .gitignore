@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+~$*
+.~lock*
+# your personal data stays local once you fill it in
+Resume Checker/tools/batch/*/
+Resume Checker/tools/_fetch/*.txt
+Resume Checker/tools/_fetch/*.json
+Resume Checker/tools/applications.jsonl
+Resume Checker/Application Log.xlsx
+Resume Checker/Job Specific Resume/*.pdf
+Resume Checker/Archive/*.pdf

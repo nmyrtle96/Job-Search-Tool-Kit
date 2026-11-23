@@ -1,0 +1,154 @@
+{
+ "_note": "EXAMPLE for RESUME_TEMPLATE_blank.docx. The job-search-setup skill rewrites this for your own r\u00e9sum\u00e9.",
+ "resume": "../../RESUME_TEMPLATE_blank.docx",
+ "file_prefix": "YourName",
+ "keyword_cap": 4,
+ "max_pages": 1,
+ "bold_terms": true,
+ "core_words": [
+  "roadmap",
+  "agile",
+  "strategy",
+  "workflow",
+  "stakeholder",
+  "discovery",
+  "requirements",
+  "metrics",
+  "cross-functional",
+  "prioritization"
+ ],
+ "forbidden": [],
+ "only_in_section": [],
+ "editable": [
+  {
+   "i": 1,
+   "kind": "headline",
+   "section": "Header"
+  },
+  {
+   "i": 2,
+   "kind": "headline",
+   "section": "Header"
+  },
+  {
+   "i": 5,
+   "kind": "summary",
+   "section": "Summary"
+  },
+  {
+   "i": 9,
+   "kind": "bullet",
+   "section": "Company A"
+  },
+  {
+   "i": 10,
+   "kind": "bullet",
+   "section": "Company A"
+  },
+  {
+   "i": 11,
+   "kind": "bullet",
+   "section": "Company A"
+  },
+  {
+   "i": 12,
+   "kind": "bullet",
+   "section": "Company A"
+  },
+  {
+   "i": 15,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 16,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 17,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 18,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 19,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 20,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 21,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 22,
+   "kind": "bullet",
+   "section": "Company B"
+  },
+  {
+   "i": 25,
+   "kind": "bullet",
+   "section": "Company C"
+  },
+  {
+   "i": 26,
+   "kind": "bullet",
+   "section": "Company C"
+  },
+  {
+   "i": 27,
+   "kind": "bullet",
+   "section": "Company C"
+  },
+  {
+   "i": 28,
+   "kind": "bullet",
+   "section": "Company C"
+  },
+  {
+   "i": 31,
+   "kind": "bullet",
+   "section": "Company D"
+  },
+  {
+   "i": 32,
+   "kind": "bullet",
+   "section": "Company D"
+  },
+  {
+   "i": 33,
+   "kind": "bullet",
+   "section": "Company D"
+  },
+  {
+   "i": 34,
+   "kind": "bullet",
+   "section": "Company D"
+  },
+  {
+   "i": 42,
+   "kind": "skills",
+   "section": "Skills"
+  },
+  {
+   "i": 43,
+   "kind": "skills",
+   "section": "Skills"
+  },
+  {
+   "i": 44,
+   "kind": "skills",
+   "section": "Skills"
+  }
+ ]
+}
